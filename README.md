@@ -1,0 +1,1 @@
+This is a creation of the TicTacToe game on java using JFrame. This project was inspired by a project done in Computer Science II, taught by Dr. Leap. The program enables you to play 2 players, or against various difficulties of artificial intelligence, including an unbeatable bot.
